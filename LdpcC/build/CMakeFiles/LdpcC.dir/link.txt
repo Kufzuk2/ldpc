@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11 CMakeFiles/LdpcC.dir/main.cpp.o CMakeFiles/LdpcC.dir/LdpcCode.cpp.o CMakeFiles/LdpcC.dir/Constellation.cpp.o -o LdpcC 

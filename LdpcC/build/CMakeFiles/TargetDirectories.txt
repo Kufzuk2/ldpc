@@ -1,0 +1,3 @@
+/home/vadim/progs/ktproject/LDPC/LdpcC/build/CMakeFiles/LdpcC.dir
+/home/vadim/progs/ktproject/LDPC/LdpcC/build/CMakeFiles/edit_cache.dir
+/home/vadim/progs/ktproject/LDPC/LdpcC/build/CMakeFiles/rebuild_cache.dir
